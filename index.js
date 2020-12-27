@@ -21,7 +21,7 @@ const config = {
     A187: '📍SHARKZINNBOT📍',
     instagram: 'https://instagram.com/shark__062?igshid=nebx1rc5g7fc',
     nomer: 'wa.me/+994406641695',
-    aktif: '24 JAM',
+    aktif: 'OFF',
     youtube: 'OFF',
     whatsapp: 'OFF',
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
